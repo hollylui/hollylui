@@ -8,7 +8,7 @@
 ⚡Here is my profile that you can know me more: https://hollylui-portfolio.netlify.app/
 
 #### Languages
-![GitHub top language](https://img.shields.io/github/languages/top/hollylui/portfolio?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/hollylui/backend_project_with_redis?color=%23FF6363&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/hollylui/hollylui.github.io?color=%2396CEB4&style=for-the-badge)
 
 #### How to reach me 📫 
