@@ -26,7 +26,7 @@
 ----
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/hollylui)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hollylui)
-![SPA Project](https://hollylui-portfolio.netlify.app)
+[![SPA Project](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://hollylui-portfolio.netlify.app)
 ![UI Project](https://fbw-e03.github.io/blog-hollylui)
 
 ### You Reach Me ⌨
