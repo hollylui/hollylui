@@ -1,6 +1,6 @@
-## Hi there 👋 I am Holly
+# Hi there 👋 I am Holly
 
-## About me 🌸
+### About me 🌸
 ----
 ⭐ I’m currently studing Web Development in DCI (Digital Career Institute) and will be graudated in April 2022.
 
@@ -8,7 +8,7 @@
 
 ⚡Here is my profile that you can know me more: https://hollylui-portfolio.netlify.app/
 
-## Languages
+### Languages
 ----
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,13 +21,13 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## My Works 🖥
+### My Works 🖥
 ----
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)  https://codepen.io/hollylui
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  https://github.com/hollylui
 
-## You Reach Me ⌨
+### You Reach Me ⌨
 ----
 💬 You can email me by this address:  hollylui@gmail.com
 <!--
