@@ -20,7 +20,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### My Works
-![CodePen](https://codepen.io/hollylui) 
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black): https://codepen.io/hollylui
 
 #### How to reach me 📫 
 💬 You can email me by this address: hollylui@gmail.com
