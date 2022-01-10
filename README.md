@@ -7,6 +7,7 @@
 
 ⚡Here is my profile that you can know me more: https://hollylui-portfolio.netlify.app/
 
+/appveyor/build/:user/:repo
 
 #### How to reach me 📫 
 💬 You can email me by this address: hollylui@gmail.com
