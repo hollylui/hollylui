@@ -29,7 +29,7 @@
 ----
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/hollylui)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hollylui)
-[![Portfolio](https://github.com/hollylui/readme_image/blob/main/portfolio.png)](https://fbw-e03.github.io/blog-hollylui/)
+[![Portfolio](https://github.com/hollylui/readme_image/blob/main/portfolio1.png)](https://fbw-e03.github.io/blog-hollylui/)
 [![SPA Project](https://github.com/hollylui/readme_image/blob/main/spa.png)](https://hollylui-portfolio.netlify.app)
 
 ### You Reach Me ⌨
