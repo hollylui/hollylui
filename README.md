@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Holly
-----
 
 #### About me 🌸
+----
 ⭐ I’m currently studing Web Development in DCI (Digital Career Institute) and will be graudated in April 2022.
 
 🌱 In this course, I learnt HTML5, CSS3, bootstrap, JavaScript, React, Express.js, MongoDB/mongoose, etc.
