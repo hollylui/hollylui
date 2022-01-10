@@ -27,12 +27,14 @@
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/hollylui)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hollylui)
 [![SPA Project](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://hollylui-portfolio.netlify.app)
+[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)]
 ![UI Project](https://fbw-e03.github.io/blog-hollylui)
 
 ### You Reach Me ⌨
 ----
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hollylui@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hollylui)
+
 <!--
 **hollylui/hollylui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
