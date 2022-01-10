@@ -19,12 +19,12 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-#### My Works
+#### My Works in
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)  https://codepen.io/hollylui
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  https://github.com/hollylui
 
-#### ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+#### You Reach Me
 💬 You can email me by this address:  hollylui@gmail.com
 <!--
 **hollylui/hollylui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
