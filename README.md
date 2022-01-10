@@ -26,9 +26,8 @@
 ----
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/hollylui)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hollylui)
-[![SPA Project](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://hollylui-portfolio.netlify.app)
-[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)]
-![UI Project](https://fbw-e03.github.io/blog-hollylui)
+[![SPA Project](https://github.com/hollylui/readme_image/blob/main/portfolio.png)](https://hollylui-portfolio.netlify.app)
+
 
 ### You Reach Me ⌨
 ----
