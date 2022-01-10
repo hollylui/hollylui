@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 #### About me 🌸
 ⭐ I’m Holly Lui. I’m currently studing Web Development in DCI (Digital Career Institute) and will be graudated in April 2022.
