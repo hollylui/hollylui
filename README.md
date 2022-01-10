@@ -7,7 +7,8 @@
 
 ⚡Here is my profile that you can know me more: https://hollylui-portfolio.netlify.app/
 
-/appveyor/build/:user/:repo
+#### Languages
+![GitHub language count](https://img.shields.io/github/languages/count/hollylui/hollylui.github.io?style=for-the-badge)
 
 #### How to reach me 📫 
 💬 You can email me by this address: hollylui@gmail.com
