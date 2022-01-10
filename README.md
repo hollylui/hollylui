@@ -21,14 +21,16 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### My Works 🖥
 ----
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/hollylui)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hollylui)
 [![Portfolio](https://github.com/hollylui/readme_image/blob/main/portfolio.png)](https://fbw-e03.github.io/blog-hollylui/)
-[![SPA Project](https://github.com/hollylui/readme_image/blob/main/Webp.net-resizeimage.png)](https://hollylui-portfolio.netlify.app)
+[![SPA Project](https://github.com/hollylui/readme_image/blob/main/spa.png)](https://hollylui-portfolio.netlify.app)
 
 ### You Reach Me ⌨
 ----
