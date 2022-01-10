@@ -5,9 +5,11 @@
 
 🌱 In this course, I learnt HTML5, CSS3, bootstrap, JavaScript, React, Express.js, MongoDB/mongoose, etc.
 
+⚡Here is my profile that you can know me more: https://hollylui-portfolio.netlify.app/
+
 
 #### How to reach me 📫 
-You can email me by this address: hollylui@gmail.com
+💬 You can email me by this address: hollylui@gmail.com
 <!--
 **hollylui/hollylui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
